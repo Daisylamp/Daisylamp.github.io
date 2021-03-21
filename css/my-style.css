@@ -2,3 +2,16 @@ img{
 	max-width: 100%;
 }
 
+html {
+  background-color: #D8BFD8;
+}
+
+body {
+  background: none;
+  color: #69707a;
+  font-family: "Open Sans", Arial, sans-serif;
+}
+
+strong {
+  color: #222324;
+}
